@@ -2,6 +2,6 @@ language: java
 notifications:
   email:
     recipients:
-      - j251425@mvrht.com
+      - autocrossauto@gmail.com
     on_success: always
     on_failure: always
