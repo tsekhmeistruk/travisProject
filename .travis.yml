@@ -1,4 +1,7 @@
 language: java
 notifications:
   email:
-    - j251425@mvrht.com
+    recipients:
+      - j251425@mvrht.com
+    on_success: always
+    on_failure: always
