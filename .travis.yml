@@ -1,4 +1,9 @@
 language: java
+
+before_script:
+script: sh bashfile1.sh #just echo
+after_script:
+
 notifications:
   email:
     recipients:
